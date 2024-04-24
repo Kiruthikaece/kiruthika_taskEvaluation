@@ -23,7 +23,6 @@ class Pattern_1 {
             System.out.println();
             sp--;
         }
-        System.out.println(sp+"space");
         for(int i=limit-1;i>=0;i--) {
             for(int x=1;x<=sp;x++)
             System.out.print(" ");
